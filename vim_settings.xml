@@ -1,0 +1,98 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/fragment.java" timestamp="1453396805527">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/apps/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraSchema.java" timestamp="1453396514378">
+        <mark key="]" line="64" column="6" />
+        <mark key="^" line="63" column="31" />
+        <mark key="." line="64" column="6" />
+        <mark key="[" line="64" column="6" />
+      </file>
+      <file name="$USER_HOME$/apps/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraTable.java" timestamp="1453396902309">
+        <mark key="]" line="28" column="1" />
+        <mark key="^" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="[" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/apps/calcite/mongodb/src/main/java/org/apache/calcite/adapter/mongodb/MongoTable.java" timestamp="1453396637358">
+        <mark key="'" line="69" column="21" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="69" column="21" filename="$USER_HOME$/apps/calcite/mongodb/src/main/java/org/apache/calcite/adapter/mongodb/MongoTable.java" />
+    </jumps>
+    <registers>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRSb3dUeXBlXD4=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxnZXRSb3dUeXBlXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnZXRSb3dUeXBlXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxnZXRSb3dUeXBlXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
